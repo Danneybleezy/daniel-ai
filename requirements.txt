@@ -1,0 +1,8 @@
+streamlit
+requests
+Pillow
+PyMuPDF
+pytesseract
+pdf2image
+transformers
+torch
